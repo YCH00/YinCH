@@ -270,4 +270,4 @@ For Ultralytics bug reports and feature requests please visit [GitHub Issues](ht
 </div>
 #
 
-## 我是傻逼2
+## 我是傻逼
