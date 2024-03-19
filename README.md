@@ -269,3 +269,5 @@ For Ultralytics bug reports and feature requests please visit [GitHub Issues](ht
     <img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-discord.png" width="3%" alt="" /></a>
 </div>
 #
+
+## 我是傻逼
