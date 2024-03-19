@@ -1,0 +1,14 @@
+path: D:\workplace\workplace_AI\ultralytics-main\data
+train: images\train
+val: images\valid
+test: images\test
+
+
+task: detect
+
+
+nc: 1
+names: ['ball']
+
+
+

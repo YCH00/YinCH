@@ -1,0 +1,7 @@
+
+roboflow:
+  workspace: ahmeds-workspace
+  project: from-datasets
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ahmeds-workspace/from-datasets/dataset/1
